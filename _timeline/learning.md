@@ -19,5 +19,6 @@ events:
   - interactive-whiteboard
   - sugar-neighborhood
   - minecraft-end-user
+  - augmemted-reality
 ---
 
