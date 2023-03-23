@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Εκπαιδευτική Τεχνολογία 
-image_url: /images/logo-robot.jpg
+image_url: /images/augmemted-reality.jpg
 caption: Οι προσπάθειες για τον συνδυασμό υπολογιστών και μάθησης ξεκίνησαν πριν τους πρώτους μίκρο-υπολογιστές και συνεχίζονται με τα σύγχρονα πολυμεσικά, κινητά και φορετά συστήματα. 
 slides:
   - dartmouth-basic
