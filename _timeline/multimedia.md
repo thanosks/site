@@ -15,5 +15,6 @@ events:
   - digital-desk
   - windows95
   - winamp
+  - pure-data
 ---
 
