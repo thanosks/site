@@ -27,4 +27,5 @@ slides:
   - learntomod
   - hackathon
   - hackerspace
+  - augmemted-reality
 ---
