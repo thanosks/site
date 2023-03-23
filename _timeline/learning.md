@@ -4,6 +4,7 @@ title: Εκπαιδευτική τεχνολογία
 image_url: /images/plato4.jpg
 caption: Οι προσπάθειες για τον συνδυασμό υπολογιστών και μάθησης ξεκίνησαν  αρκετά πριν τους πρώτους μίκρο-υπολογιστές και συνεχίζονται με τα σύγχρονα πολυμεσικά, κινητά και φορετά συστήματα. 
 events:
+  - augmented-reality
   - dartmouth-basic
   - logo-robot
   - children-alto
@@ -18,6 +19,5 @@ events:
   - interactive-whiteboard
   - sugar-neighborhood
   - minecraft-end-user
-  - augmemted-reality
 ---
 
